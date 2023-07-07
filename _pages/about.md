@@ -13,20 +13,6 @@ I am a PhD Candidate in Political Science at Northwestern University, where I am
 Before coming to grad school, I received a B.A. in Political Science at the Universidad Católica del Uruguay. I also worked at the Economic Commission for Latin America and the Caribbean and did consulting work for other international organizations. 
 
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="/images/nu.jpg" alt="Description of image 1">
-  </div>
-  <div style="flex: 1;">
-    <img src="/images/chi.jpg" alt="Description of image 2">
-  </div>
-</div>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="/images/flores.jpg" alt="Description of image 3">
-  </div>
-  <div style="flex: 1;">
-    <img src="/images/campo.jpg" alt="Description of image 4">
-  </div>
-</div>
+![Description of the image](/images/chi.jpg){: width="50%" height="auto" }
+![Description of the image](/images/campo.jpg){: width="50%" height="auto" }
