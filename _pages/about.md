@@ -24,7 +24,7 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="/images/cabo.jpg" alt="Description of image 3">
+    <img src="/images/flores.jpg" alt="Description of image 3">
   </div>
   <div style="flex: 1;">
     <img src="/images/campo.jpg" alt="Description of image 4">
