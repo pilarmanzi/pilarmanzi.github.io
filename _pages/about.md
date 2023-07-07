@@ -14,5 +14,10 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
 
 
 
-![Description of the image](/images/chi.jpg){: width="50%" height="auto" }
-![Description of the image](/images/campo.jpg){: width="50%" height="auto" }
+<div class="image-item">
+  <img src="/images/chi.jpg" alt="Description of image 1" width="300" height="200">
+</div>
+<div class="image-item">
+  <img src="/images/campo.jpg" alt="Description of image 2" width="200" height="100">
+</div>
+
