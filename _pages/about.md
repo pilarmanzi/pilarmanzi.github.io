@@ -18,6 +18,6 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
   <img src="/images/chi.jpg" alt="Description of image 1" width="300" height="200">
 </div>
 <div class="image-item">
-  <img src="/images/campo.jpg" alt="Description of image 2" width="200" height="100">
+  <img src="/images/campo.jpg" alt="Description of image 2" width="300" height="200">
 </div>
 
