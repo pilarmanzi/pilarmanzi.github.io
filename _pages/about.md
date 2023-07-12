@@ -28,9 +28,9 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
 
 <div class="image-container">
   <div class="image-item">
-    <img src="/images/chi.jpg" alt="Description of image 1" width="300" height="200">
+    <img src="/images/chi.jpg" alt="Lake Michigan" width="300" height="200">
   </div>
   <div class="image-item">
-    <img src="/images/campo.jpg" alt="Description of image 2" width="300" height="200">
+    <img src="/images/cerro.jpg" alt="Description of image 2" width="300" height="200">
   </div>
 </div>
