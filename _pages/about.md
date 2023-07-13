@@ -24,10 +24,11 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
     vertical-align: top;
     margin-right: 10px;
   }
-  
- img {
-    max-width: 40%;
+
+  img {
+    max-width: 100%;
     height: auto;
+    max-height: 200px;
   }
 
   figcaption {
@@ -38,12 +39,12 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
 
 <div class="image-container">
   <div class="image-item">
-    <img src="/images/chi.jpg" alt="Lake Michigan" >
+    <img src="/images/chi.jpg" alt="Lake Michigan">
     <figcaption>Lake Michigan, Chicago</figcaption>
-  </figure>
+  </div>
   <div class="image-item">
-    <img src="/images/campo.jpg" alt="Description of image 2" >
+    <img src="/images/campo.jpg" alt="Description of image 2">
     <figcaption>Casupá, Uruguay</figcaption>
-  </figure>
+  </div>
 </div>
 
