@@ -21,7 +21,10 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
 
   .image-item {
     display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
   }
+  
  img {
     max-width: 40%;
     height: auto;
