@@ -25,7 +25,7 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
 
   figcaption {
     text-align: center;
-    margin-top: 2px;
+    margin-top: 5px;
   }
 </style>
 
