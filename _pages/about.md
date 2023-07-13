@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Political Science at Northwestern University, where I am also completing an Masters in Applied Statistics. My research focuses on the politics of income inequality with a regional focus in Latin America. 
+I am a PhD Candidate (ABD) in Political Science at Northwestern University, where I am also completing an Masters in Applied Statistics. My research focuses on the politics of income inequality with a regional focus in Latin America. 
 
 Before coming to grad school, I received a B.A. in Political Science at the Universidad Católica del Uruguay. I also worked at the Economic Commission for Latin America and the Caribbean and did consulting work for other international organizations. 
 
@@ -27,10 +27,13 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
 </style>
 
 <div class="image-container">
-  <div class="image-item">
+  <figure class="image-item">
     <img src="/images/chi.jpg" alt="Lake Michigan" width="300" height="200">
-  </div>
-  <div class="image-item">
-    <img src="/images/cerro.jpg" alt="Description of image 2" width="300" height="200">
-  </div>
+    <figcaption>Lake Michigan, Chicago</figcaption>
+  </figure>
+  <figure class="image-item">
+    <img src="/images/campo.jpg" alt="Description of image 2" width="300" height="200">
+    <figcaption>Casupá, Uruguay</figcaption>
+  </figure>
 </div>
+
