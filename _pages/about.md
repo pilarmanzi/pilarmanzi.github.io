@@ -37,11 +37,11 @@ Before coming to grad school, I received a B.A. in Political Science at the Univ
 </style>
 
 <div class="image-container">
-  <figure class="image-item">
+  <div class="image-item">
     <img src="/images/chi.jpg" alt="Lake Michigan" >
     <figcaption>Lake Michigan, Chicago</figcaption>
   </figure>
-  <figure class="image-item">
+  <div class="image-item">
     <img src="/images/campo.jpg" alt="Description of image 2" >
     <figcaption>Casupá, Uruguay</figcaption>
   </figure>
