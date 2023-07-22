@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Other"
+permalink: /other/
+author_profile: true
+---
+
+# Blog 
+
+Since 2020, I regularly contribute to **Razones y Personas** (in Spanish):
+
+- [*¿Méritos o privilegios?*](http://www.razonesypersonas.com/2023/07/meritos-o-privilegios.html)
+
+  - Referenced in [newspaper article] (https://www.elobservador.com.uy/nota/universidad-para-privilegiados-la-decision-en-estados-unidos-que-reabre-el-debate-en-uruguay-202371919100)
+  
+- [*Segregacion escolar y la teoría del contacto*](http://www.razonesypersonas.com/2022/12/segregacion-escolar-y-la-teoria-del.html)
+- [*Los super ricos importan*](http://www.razonesypersonas.com/2021/06/los-super-ricos-importan.html)
+- [*Plata, plomo y democracia*](http://www.razonesypersonas.com/2021/12/plata-plomo-y-democracia.html)
+- [*Por la negativa*](http://www.razonesypersonas.com/2020/11/por-la-negativa-los-electores-votan-en.html)
