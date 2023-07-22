@@ -5,13 +5,13 @@ permalink: /other/
 author_profile: true
 ---
 
-# Blog 
+# Blog Contributions
 
-Since 2020, I regularly contribute to **Razones y Personas** (in Spanish):
+Since 2020, I regularly contribute to the blog [**Razones y Personas**](http://www.razonesypersonas.com/) (in Spanish):
 
 - [*¿Méritos o privilegios?*](http://www.razonesypersonas.com/2023/07/meritos-o-privilegios.html)
 
-  - Referenced in [newspaper article] (https://www.elobservador.com.uy/nota/universidad-para-privilegiados-la-decision-en-estados-unidos-que-reabre-el-debate-en-uruguay-202371919100)
+  - Referenced in [newspaper article](https://www.elobservador.com.uy/nota/universidad-para-privilegiados-la-decision-en-estados-unidos-que-reabre-el-debate-en-uruguay-202371919100)
   
 - [*Segregacion escolar y la teoría del contacto*](http://www.razonesypersonas.com/2022/12/segregacion-escolar-y-la-teoria-del.html)
 - [*Los super ricos importan*](http://www.razonesypersonas.com/2021/06/los-super-ricos-importan.html)
