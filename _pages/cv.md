@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the latest version of my CV [here](https://www.dropbox.com/scl/fi/l8nytn1hxzynzuxoj6oen/CV_2023.pdf?rlkey=xsy1109sf91sjtqakmpvuyl29&dl=0).
+You can find the latest version of my CV [here](https://www.dropbox.com/scl/fi/vhabda6lzg0soj5hymp2a/MANZ_CV_2023.pdf?rlkey=grzxjsak6xcvx33eyo0p0nrnm&dl=0).
 
 
 
