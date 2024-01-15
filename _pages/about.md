@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate (ABD) in Political Science at Northwestern University, where I am also completing a Masters in Applied Statistics. My research focuses on the politics of income inequality with a regional focus in Latin America. 
+I am a PhD Candidate (ABD) in Political Science at Northwestern University, where I am also completing a Masters in Applied Statistics. My research focuses on the politics of income inequality with a regional focus in Latin America. My work has been published in the *Journal of Politics in Latin America* and *Social Policy and Administration*. 
 
-I received a B.A. in Political Science at the Universidad Católica del Uruguay. Before grad school, I worked at the Economic Commission for Latin America and the Caribbean and did consulting work for other international organizations. 
+Before graduate school, I worked at the Economic Commission for Latin America and the Caribbean in Montevideo, where I worked on projects regarding multidimensional child poverty, social expenditure, gender inequality in the labor market, and care policies. This research has been published in *Latin American Research Review* and *International Security Review*, as well as in multiple policy papers.  
 
 
 

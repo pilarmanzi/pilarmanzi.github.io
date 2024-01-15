@@ -9,6 +9,8 @@ author_profile: true
 
 Since 2020, I regularly contribute to the blog [**Razones y Personas**](http://www.razonesypersonas.com/) (in Spanish):
 
+-[*En mi patio trasero, no*](http://www.razonesypersonas.com/2023/12/en-mi-patio-trasero-no.html)
+
 - [*¿Méritos o privilegios?*](http://www.razonesypersonas.com/2023/07/meritos-o-privilegios.html)
 
   - Referenced in [newspaper article](https://www.elobservador.com.uy/nota/universidad-para-privilegiados-la-decision-en-estados-unidos-que-reabre-el-debate-en-uruguay-202371919100)
