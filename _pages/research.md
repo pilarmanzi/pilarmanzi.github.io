@@ -5,13 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-# Dissertation 
+# Research projects
 
 In my dissertation, I study economic elites' ideas about poverty and inequality and their preferences for taxation. The study is based on a mixed-methods approach, including more than 100 interviews, computerized text analysis, and a survey experiment. 
 
+You can find a working version of the paper focused on describing elite views on poverty and inequality [here](https://www.dropbox.com/scl/fi/k77020r827u7803onq49v/Views-on-Poverty-and-Inequality.pdf?rlkey=uut1clwrdmf75gv8ay8o5uopx&dl=0). A [second working paper](https://www.dropbox.com/scl/fi/f5mobg584pmpicqavkufy/Resistance-to-Taxation.pdf?rlkey=ih21zapk8nrgdr780nx8vefv1&dl=0) is centered on elite opposition to taxation, using both interview and survey data. **Please do not cite without permission**. 
+
 Apart from my dissertation, I am interested in the political economy of social policy. I am part of other collaborative projects focused on the political economy of social policies. [One of these projects](https://condicionalidades.wordpress.com/) is centered on Conditional Cash Transfers (CCTs) in Latin America - one of the most popular social policies in the region. This project explores differences in the CCT models adopted in the region and asks why some governments opt for a more punitive design than others. 
 
-I am also working on a collaborative project on the politics of opting out from public services. This is part of [Latin American and Caribbean Inequality Review](https://lacir.lse.ac.uk/) initiative led by the London School of Economics. 
+I am also working on a collaborative project on the politics of opting out from public services. This is part of [Latin American and Caribbean Inequality Review](https://lacir.lse.ac.uk/) initiative led by the London School of Economics. You can find the working version of the paper [here](https://lacir.lse.ac.uk/en-gb/publications/opting-out-from-public-services-and-the-social-contract-in-latin-america).
 
 
 # Journal Articles
