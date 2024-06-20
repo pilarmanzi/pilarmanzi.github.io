@@ -16,6 +16,8 @@ I am also working on a collaborative project on the politics of opting out from 
 
 # Journal Articles
 
+De La O, A., Rossel, C. & Manzi, P. (Forthcoming). Opting Out of Public Services and the Social Contract in Latin America. *Oxford Open Economics*
+
 García-Montoya, L., & Manzi, P. (2023). From Economic to Political Power: Economic Elites and Policymaking During Times of Crisis. *Journal of Politics in Latin America*. https://doi.org/10.1177/1866802X231180897
 
 Rossel, C., Antía, F., & Manzi, P. (2023). The Politics of Sanctioning the Poor Through Welfare Conditionality: Revealing Causal Mechanisms in Uruguay. *Social Policy & Administration*. https://doi.org/10.1111/spol.12911

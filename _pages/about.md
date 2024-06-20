@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate (ABD) in Political Science at Northwestern University, where I am also completing a Masters in Applied Statistics. My research focuses on the politics of income inequality with a regional focus in Latin America. My work has been published in the *Journal of Politics in Latin America* and *Social Policy and Administration*. 
+As of June 2024, I completed my PhD in Political Science at Northwestern University, where I also obtained a Masters in Applied Statistics. In Fall of 2024, I will join the University of Chicago's Harper-Schmidt Society of Fellows. 
 
+My research focuses on the politics of income inequality with a regional focus in Latin America. My work on this topic has been published in the *Journal of Politics in Latin America* and in *Social Policy and Administration*. 
 Before graduate school, I worked at the Economic Commission for Latin America and the Caribbean in Montevideo, where I worked on projects regarding multidimensional child poverty, social expenditure, gender inequality in the labor market, and care policies. This research has been published in *Latin American Research Review* and *International Security Review*, as well as in multiple policy papers.  
 
 

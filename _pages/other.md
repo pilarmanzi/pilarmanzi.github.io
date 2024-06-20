@@ -9,6 +9,8 @@ author_profile: true
 
 Since 2020, I regularly contribute to the blog [**Razones y Personas**](http://www.razonesypersonas.com/) (in Spanish):
 
+- [*Ni tan riquitos*](http://www.razonesypersonas.com/2024/05/ni-tan-riquitos.html)
+
 - [*En mi patio trasero, no*](http://www.razonesypersonas.com/2023/12/en-mi-patio-trasero-no.html)
 
 - [*¿Méritos o privilegios?*](http://www.razonesypersonas.com/2023/07/meritos-o-privilegios.html)
