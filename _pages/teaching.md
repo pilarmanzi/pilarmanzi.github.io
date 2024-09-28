@@ -7,6 +7,11 @@ author_profile: true
 
 # Instructor
 
+- Social Science Inquiry - University of Chicago - 2024-2025
+
+Sequence (Fall, Winter, Spring) in the Core Curriculum. It begins with an introduction to social science research methods, including an overview of experimental and observational designs. The second quarter introduces statistical analysis and R. The third quarter guides students through their own research projects. 
+
+
 - Introduction to Empirical Methods - Northwestern University - Summer 2023
 
 Course for undergraduate students. It covers the basics of research methods in Political Science, starting from the building blocks of research (eg. concept and measurement) to the most common tools used in Political Science research.

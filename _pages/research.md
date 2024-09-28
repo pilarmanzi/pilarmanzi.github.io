@@ -7,11 +7,11 @@ author_profile: true
 
 # Research projects
 
-In my dissertation, I study economic elites' ideas about poverty and inequality and their preferences for taxation. The study is based on a mixed-methods approach, including more than 100 interviews, computerized text analysis, and a survey experiment. 
+In my book project, I study economic elites' ideas about poverty and inequality and their preferences for taxation. The study is based on a mixed-methods approach, including more than 100 interviews, computerized text analysis, and a survey experiment. As a side project related to economic elites, I study elite's use of offshore accounts, particularly how this changes over space and time. 
 
-Apart from my dissertation, I am interested in the political economy of social policy. I am part of other collaborative projects focused on the political economy of social policies. [One of these projects](https://condicionalidades.wordpress.com/) is centered on Conditional Cash Transfers (CCTs) in Latin America - one of the most popular social policies in the region. This project explores differences in the CCT models adopted in the region and asks why some governments opt for a more punitive design than others. 
+I am also interested in the political economy of social policy. [One of these projects](https://condicionalidades.wordpress.com/) is centered on Conditional Cash Transfers (CCTs) in Latin America - one of the most popular social policies in the region. This project explores differences in the CCT models adopted in the region and asks why some governments opt for a more punitive design than others. Relatedly, I am now investigating Guaranteed Income projects in the United States. Besides participating from the impact evaluation of Evanston's Guaranteed Income Pilot, I am researching the variation in the design of pilot programs around the country.   
 
-I am also working on a collaborative project on the politics of opting out from public services. This is part of [Latin American and Caribbean Inequality Review](https://lacir.lse.ac.uk/) initiative led by the London School of Economics. You can find the working version of the paper [here](https://lacir.lse.ac.uk/en-gb/publications/opting-out-from-public-services-and-the-social-contract-in-latin-america).
+Finally, I am collaborating on a project on the politics of opting out from public services. This is part of [Latin American and Caribbean Inequality Review](https://lacir.lse.ac.uk/) initiative led by the London School of Economics. You can find the working version of the first paper [here](https://lacir.lse.ac.uk/en-gb/publications/opting-out-from-public-services-and-the-social-contract-in-latin-america).
 
 
 # Journal Articles

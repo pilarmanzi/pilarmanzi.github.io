@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on the politics of income inequality with a regional focus in Latin America. My work on this topic has been published in the *Journal of Politics in Latin America* and in *Social Policy and Administration*. 
-Before graduate school, I worked at the Economic Commission for Latin America and the Caribbean in Montevideo, where I worked on projects regarding multidimensional child poverty, social expenditure, gender inequality in the labor market, and care policies. This research has been published in *Latin American Research Review* and *International Security Review*, as well as in multiple policy papers.  
+Hello! 
 
-In June 2024, I completed my PhD in Political Science at Northwestern University, where I also obtained a Masters in Applied Statistics. In Fall of 2024, I will join the University of Chicago's Harper-Schmidt Society of Fellows.
+I am a Harper-Schmidt Fellow and Collegiate Assistant Professor at the University of Chicago. My research focuses broadly on the politics of income inequality, on economic elites, and on social policy. My work on this topic has been published in the *Journal of Politics in Latin America*, *Social Policy and Administration*, and forthcoming in *Oxford Open Economics*. I have also worked on projects regarding multidimensional child poverty, social expenditure, gender inequality in the labor market, and care policies. This research has been published in *Latin American Research Review* and *International Security Review*, as well as in multiple policy papers.  
+
 
 <style>
   .image-container {
