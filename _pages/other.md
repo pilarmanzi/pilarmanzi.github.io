@@ -5,6 +5,15 @@ permalink: /other/
 author_profile: true
 ---
 
+# Media Coverage
+
+My work on economic elites has been covered in these *Búsqueda* articles:
+
+[Article 1](https://www.busqueda.com.uy/economia/elite-economica-culpa-la-pobreza-afactores-como-laeducacion-y-la-falta-ambicion-mas-que-los-politicos-n5394218)
+
+[Article 2](https://www.busqueda.com.uy/economia/ricos-perciben-uruguay-como-muy-socialista-y-una-cultura-contra-ellos-n5394217)
+
+
 # Blog Contributions
 
 Since 2020, I regularly contribute to the blog [**Razones y Personas**](http://www.razonesypersonas.com/) (in Spanish):
