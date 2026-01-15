@@ -7,16 +7,16 @@ author_profile: true
 
 # Research projects
 
-In my book project, I study economic elites' ideas about poverty and inequality and their preferences for taxation. The study is based on a mixed-methods approach, including more than 100 interviews, computerized text analysis, and a survey experiment. As a side project related to economic elites, I study elite's use of offshore accounts, particularly how this changes over space and time. 
+In my book project, I study economic elites' ideas about poverty and inequality and their preferences for taxation. The study is based on a mixed-methods approach, including more than 100 interviews, computerized text analysis, and a survey experiment. In an additional project related to economic elites, I study elite's use of offshore accounts, particularly how this changes over space and time. 
 
 I am also interested in the political economy of social policy. [One of these projects](https://condicionalidades.wordpress.com/) is centered on Conditional Cash Transfers (CCTs) in Latin America - one of the most popular social policies in the region. This project explores differences in the CCT models adopted in the region and asks why some governments opt for a more punitive design than others. Relatedly, I am now investigating Guaranteed Income projects in the United States. Besides participating from the impact evaluation of Evanston's Guaranteed Income Pilot, I am researching the variation in the design of pilot programs around the country.   
 
-Finally, I am collaborating on a project on the politics of opting out from public services. This is part of [Latin American and Caribbean Inequality Review](https://lacir.lse.ac.uk/) initiative led by the London School of Economics. You can find the working version of the first paper [here](https://lacir.lse.ac.uk/en-gb/publications/opting-out-from-public-services-and-the-social-contract-in-latin-america).
+Finally, I am collaborating on a project on the politics of opting out from public services. This originated as part of the [Latin American and Caribbean Inequality Review](https://lacir.lse.ac.uk/) initiative led by the London School of Economics. 
 
 
 # Journal Articles
 
-De La O, A., Rossel, C. & Manzi, P. (Forthcoming). Opting Out of Public Services and the Social Contract in Latin America. *Oxford Open Economics*
+De La O, A., Rossel, C. & Manzi, P. (2025). Opting Out of Public Services and the Social Contract in Latin America. *Oxford Open Economics*. https://doi.org/10.1093/ooec/odae016
 
 García-Montoya, L., & Manzi, P. (2023). From Economic to Political Power: Economic Elites and Policymaking During Times of Crisis. *Journal of Politics in Latin America*. https://doi.org/10.1177/1866802X231180897
 
