@@ -16,6 +16,8 @@ Finally, I am collaborating on a project on the politics of opting out from publ
 
 # Journal Articles
 
+Manzi, P. (Forthcoming). Explaining Inequality: Economic Elite Narratives Across Latin America. *Socio-Economic Review*.
+
 De La O, A., Rossel, C. & Manzi, P. (2025). Opting Out of Public Services and the Social Contract in Latin America. *Oxford Open Economics*. https://doi.org/10.1093/ooec/odae016
 
 García-Montoya, L., & Manzi, P. (2023). From Economic to Political Power: Economic Elites and Policymaking During Times of Crisis. *Journal of Politics in Latin America*. https://doi.org/10.1177/1866802X231180897

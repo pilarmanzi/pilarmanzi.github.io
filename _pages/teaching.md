@@ -7,10 +7,13 @@ author_profile: true
 
 # Instructor
 
-- Social Science Inquiry - University of Chicago - 2024-2025
+- Social Science Inquiry - University of Chicago - 2024- Present
 
 Sequence (Fall, Winter, Spring) in the Core Curriculum. It begins with an introduction to social science research methods, including an overview of experimental and observational designs. The second quarter introduces statistical analysis and R. The third quarter guides students through their own research projects. 
 
+- Politics of Economic Development - University of Chicago - Summer 2026 
+
+Taught for pre-college immersion students. It covers themes such as political institutions and regimes, corruption and rule of law, foreign aid, and natural resources. 
 
 - Introduction to Empirical Methods - Northwestern University - Summer 2023
 
