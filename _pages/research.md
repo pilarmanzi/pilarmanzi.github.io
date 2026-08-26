@@ -5,18 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research projects
+# Book Project
 
-In my book project, I study economic elites' ideas about poverty and inequality and their preferences for taxation. The study is based on a mixed-methods approach, including more than 100 interviews, computerized text analysis, and a survey experiment. In an additional project related to economic elites, I study elite's use of offshore accounts, particularly how this changes over space and time. 
-
-I am also interested in the political economy of social policy. [One of these projects](https://condicionalidades.wordpress.com/) is centered on Conditional Cash Transfers (CCTs) in Latin America - one of the most popular social policies in the region. This project explores differences in the CCT models adopted in the region and asks why some governments opt for a more punitive design than others. Relatedly, I am now investigating Guaranteed Income projects in the United States. Besides participating from the impact evaluation of Evanston's Guaranteed Income Pilot, I am researching the variation in the design of pilot programs around the country.   
-
-Finally, I am collaborating on a project on the politics of opting out from public services. This originated as part of the [Latin American and Caribbean Inequality Review](https://lacir.lse.ac.uk/) initiative led by the London School of Economics. 
-
+Latin America is the most unequal region in the world, yet the belief systems of its economic elites, some of the most consequential actors to whether that changes, remain poorly understood. Drawing on 131 in-depth interviews with some of the wealthiest and most powerful businesspeople in Honduras, Mexico, and Uruguay, a large corpus of elite public statements, and a survey experiment, this book asks a prior question to the standard story of elite obstruction: what do these actors actually believe, and why? The central finding is that elite preferences are not simply a function of self-interest. They are shaped by the institutional environment elites operate in, specifically, their perceptions of state capacity. Where the state is seen as functional and honest, meritocratic narratives predominate; where it is seen as corrupt or failing, even the most powerful businesspeople acknowledge the system is "rigged". Yet a consistent pattern runs across all three contexts: elites oppose redistribution not categorically, but conditionally. They accept in principle that those who earn more should pay more. What they reject is giving resources to a state they do not trust. This means elite resistance to redistribution is not fixed, but contingent on institutional quality. 
 
 # Journal Articles
 
-Manzi, P. (Forthcoming). Explaining Inequality: Economic Elite Narratives Across Latin America. *Socio-Economic Review*.
+Manzi, P. (2026). Explaining Inequality: Economic Elite Narratives Across Latin America. *Socio-Economic Review*. https://doi.org/10.1093/ser/mwag043.
 
 De La O, A., Rossel, C. & Manzi, P. (2025). Opting Out of Public Services and the Social Contract in Latin America. *Oxford Open Economics*. https://doi.org/10.1093/ooec/odae016
 
@@ -36,9 +31,13 @@ Manzi, P., & Weylandt, M. (2021). Causal Inference and the Scientific Method. In
 
 Manzi, P. (2021). Data. In *Empirical Methods in the Political Science: An Introduction*. Northwestern University Libraries.
 
+# Working Papers 
 
+Manzi, P. (co-authored with P. Diaz Andrade). “Beyond Survey Checkboxes: How People Explain Poverty and Wealth”
 
+Manzi, P. (co-authored with L. García-Montoya). “The Politics of Offshore Exit: Redistributive Threats and Elite Wealth Defense”
 
+Manzi, P. (co-authored with C. Rossel & A. De la O). “Does Private Education Erode the Social Contract? Evidence from Peru”
 
 
 {% if author.googlescholar %}

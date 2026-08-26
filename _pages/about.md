@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Harper-Schmidt Fellow and Collegiate Assistant Professor at the University of Chicago. My research focuses broadly on the politics of income inequality, on economic elites, and on social policy. My work on this topic has been published in the *Journal of Politics in Latin America*, *Social Policy and Administration*, *Oxford Open Economics*, and forthcoming in *Socio-Economic Review*. I have also worked on projects regarding multidimensional child poverty, social expenditure, gender inequality in the labor market, and care policies. This research has been published in *Latin American Research Review* and *International Security Review*, as well as in multiple policy papers.  
+I am a Harper-Schmidt Fellow and Collegiate Assistant Professor at the University of Chicago. My research sits at the intersection of inequality, redistributive politics, and the political economy of social policy in Latin America. My work on this topic has been published in *Socio-Economic Review*, *Journal of Politics in Latin America*, *Social Policy and Administration*, and *Oxford Open Economics*. I have also worked on projects regarding multidimensional child poverty, social expenditure, gender inequality in the labor market, and care policies. This research has been published in *Latin American Research Review* and *International Security Review*, as well as in multiple policy papers.  
 
 
 <style>
