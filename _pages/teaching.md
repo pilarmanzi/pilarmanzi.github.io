@@ -7,9 +7,9 @@ author_profile: true
 
 # Instructor
 
-- Social Science Inquiry - University of Chicago - 2024- Present
+- Social Science Inquiry - University of Chicago - Fall, Winter, Spring 2024- Present
 
-Sequence (Fall, Winter, Spring) in the Core Curriculum. It begins with an introduction to social science research methods, including an overview of experimental and observational designs. The second quarter introduces statistical analysis and R. The third quarter guides students through their own research projects. 
+Yearly sequence in the Core Curriculum. It begins with an introduction to social science research methods, including an overview of experimental and observational designs. The second quarter introduces statistical analysis and R. The third quarter guides students through their own research projects. 
 
 - Politics of Economic Development - University of Chicago - Summer 2026 
 
