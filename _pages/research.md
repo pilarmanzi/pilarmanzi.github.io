@@ -7,7 +7,7 @@ author_profile: true
 
 # Book Project
 
-Latin America is the most unequal region in the world, yet the belief systems of its economic elites, some of the most consequential actors to whether that changes, remain poorly understood. Drawing on 131 in-depth interviews with some of the wealthiest and most powerful businesspeople in Honduras, Mexico, and Uruguay, a large corpus of elite public statements, and a survey experiment, this book asks a prior question to the standard story of elite obstruction: what do these actors actually believe, and why? The central finding is that elite preferences are not simply a function of self-interest. They are shaped by the institutional environment elites operate in, specifically, their perceptions of state capacity. Where the state is seen as functional and honest, meritocratic narratives predominate; where it is seen as corrupt or failing, even the most powerful businesspeople acknowledge the system is "rigged". Yet a consistent pattern runs across all three contexts: elites oppose redistribution not categorically, but conditionally. They accept in principle that those who earn more should pay more. What they reject is giving resources to a state they do not trust. This means elite resistance to redistribution is not fixed, but contingent on institutional quality. 
+Latin America is the most unequal region in the world, yet the belief systems of its economic elites, some of the most consequential actors to whether that changes, remain poorly understood. Drawing on 131 in-depth interviews with some of the wealthiest and most powerful businesspeople in Honduras, Mexico, and Uruguay, a large corpus of elite public statements, and a survey experiment, this book asks a prior question to the standard story of elite obstruction: what do these actors actually believe, and why? The central finding is that elite preferences are not simply a function of self-interest. They are shaped by the institutional environment elites operate in, specifically, their perceptions of state capacity. Where the state is seen as functional and honest, meritocratic narratives predominate; where it is seen as corrupt or failing, even the most powerful businesspeople acknowledge the system is "rigged". Yet a consistent pattern runs across all three contexts: elites oppose redistribution not categorically, but conditionally. They accept in principle that those who earn more should pay more. What they reject is giving resources to a state they do not trust. This means elite resistance to redistribution is not fixed, but contingent on institutional quality, though what that conditionality means for the prospects of reform is more complicated than it first appears. 
 
 # Journal Articles
 
@@ -32,6 +32,8 @@ Manzi, P., & Weylandt, M. (2021). Causal Inference and the Scientific Method. In
 Manzi, P. (2021). Data. In *Empirical Methods in the Political Science: An Introduction*. Northwestern University Libraries.
 
 # Working Papers 
+
+Manzi, P. "Conditional Consent: Economic Elites and the Politics of Taxation in Latin America"
 
 Manzi, P. (co-authored with P. Diaz Andrade). “Beyond Survey Checkboxes: How People Explain Poverty and Wealth”
 
